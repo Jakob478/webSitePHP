@@ -98,16 +98,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addpost.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/addpost.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="chat.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/chat.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,7 +125,7 @@
       <file leaf-file-name="sighUp.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageScripts/sighUp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-870">
+            <state relative-caret-position="1008">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <marker date="1573068555825" expanded="true" signature="1314:1350" ph="SELECT statu... users" />
@@ -151,8 +141,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <first_editor relative-caret-position="504">
+                <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -212,6 +202,7 @@
         <option value="$PROJECT_DIR$/pageScripts/registr.php" />
         <option value="$PROJECT_DIR$/pageScripts/sighUp.php" />
         <option value="$PROJECT_DIR$/pageScripts/testScript.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -223,7 +214,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-3" />
     <option name="width" value="1229" />
     <option name="height" value="1032" />
@@ -318,15 +309,15 @@
       <workItem from="1572289818002" duration="13000" />
       <workItem from="1572463665826" duration="17330000" />
       <workItem from="1572875554805" duration="642000" />
-      <workItem from="1572878975862" duration="16889000" />
+      <workItem from="1572878975862" duration="18298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162129000" />
+    <option name="totallyTimeSpent" value="163538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -361,7 +352,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.php" />
     <entry file="file://$PROJECT_DIR$/pageElements/head.html" />
     <entry file="file://$PROJECT_DIR$/pageElements/footer.html" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
@@ -685,7 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pageScripts/sighUp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-870">
+        <state relative-caret-position="1008">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <marker date="1573068555825" expanded="true" signature="1314:1350" ph="SELECT statu... users" />
@@ -696,11 +686,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2478">
+          <caret line="118" column="54" lean-forward="false" selection-start-line="118" selection-start-column="54" selection-end-line="118" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <first_editor relative-caret-position="504">
+            <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
