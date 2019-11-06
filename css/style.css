@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+
+}
+.card {
+    width: 49%;
+    margin-left: 1%;
+    margin: 0 auto;
+}
+.user {
+    heigth: 650px;
+    width: 60%;
+}
+.usercard {
+    width: 49%;
+    margin-left: 1%;
+}
+.card-body img {
+    width: 100%;
+}
+.img-block {
+    width: 100%;
+    height: 350px;
+    margin: 0 auto;
+}
+.register {
+    font-size: 17px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+.form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.username {
+    text-decoration: none;
+    color: darkslategray;
+    font-size: 17px;
+    font-weight: 100;
+    font-style: italic;
+}
+.userimage {
+    max-width: 400px;
+    max-height: 300px;
+
+}
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+.delBut {
+    border-radius: 50%;
+    border: none;
+    width: 20px;
+    height: 20px;
+    background: grey;
+}
+.delBut:hover {
+    background: red;
+}
+.userin {
+    overflow-y: auto;
+    height: 600px;
+}
+.userinfo {
+    width: 95%;
+    display: grid;
+    grid-template-columns: 10% 20% 60% 10%;
+    background: #8598AA;
+}
+.userimg {
+    border-right: 1px solid black;
+    margin-right: 30px;
+}
+.chattext {
+    font-size: 12px;
+    font-style: italic;
+}
+.message {
+    word-wrap: break-word;
+}
+.userinfo img {
+    margin-top: 5px;
+}
+.users {
+    width: 60%;
+}
+.delMsg {
+    margin-top: 5%;
+    margin-left: 90%;
+    border-radius: 50%;
+    border: none;
+    width: 20px;
+    height: 20px;
+    background: green;
+}
+.delMsg:hover {
+    background: red;
+}
+.delPostHeader {
+    margin-top: 50%;
+    text-align: center;
+}
+.recBut {
+
+    margin-top: 5%;
+    margin-bottom: 50%;
+    margin-left: 45%;
+    text-align: center;
+}
+.deleteMessage {
+   margin-left: 10%;
+}
